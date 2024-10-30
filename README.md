@@ -8,8 +8,6 @@
 
   When it comes to my favorite technologies, I find myself drawn to the ever-evolving world of web development. Javascript, with its versatility and dynamic nature, has become a language I enjoy working with. Its ability to bring interactivity and functionality to websites and applications fascinates me. In addition, I have a strong affinity for popular frameworks such as Vue and React, which allow me to build robust and scalable user interfaces. To complement my frontend skills, I have also delved into the world of backend development, where NodeJS has proven to be a valuable tool in creating efficient and scalable server-side applications.
 
-  Beyond the realm of technology, I am an individual who finds solace and inspiration in various hobbies. Drawing has been a lifelong passion of mine, allowing me to express my creativity and bring my imagination to life on paper. It serves as a therapeutic outlet and a means of self-expression. Writing is another avenue through which I channel my thoughts and emotions. Whether it's crafting compelling stories or jotting down personal reflections, writing enables me to explore different perspectives and connect with others on a deeper level.
-
   I am excited about the future possibilities and eager to embark on new challenges, pushing the boundaries of my abilities and creating innovative solutions that positively impact the lives of others.
 
 Thank you for your attention, have a great day!.
@@ -17,7 +15,7 @@ Thank you for your attention, have a great day!.
 <br>
 <h3 align="left">For more information:</h3>
 
-- Certificate of Higher Education [(DAW)](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)
+- Certificate of Higher Degree itinerary [(DAW)](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html)
 
 - 📫 How to reach me **rguezrguezfran1@gmail.com**
 
